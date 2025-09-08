@@ -50,4 +50,15 @@ But since I couldn’t just walk away completely, I decided to mess around on my
 
 Now it’s more like my own side quest — messing with LEDs, Morse code, and whatever else comes to mind. I’m also thinking about trying out stuff with Raspberry Pi, maybe hosting n8n flows on a better board, and slowly saving up to push this further.  
 
-So yeah — what started as me being pissed off kinda turned into something fun and experimental. Not perfect, not polished, but mine. 🚀  
+So yeah — what started as me being pissed off kinda turned into something fun and experimental. Not perfect, not polished, but mine. 🚀 
+
+
+
+
+
+
+
+## Updates 
+
+if possible gona add golang insted for faster results
+
