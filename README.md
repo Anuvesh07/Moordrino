@@ -44,13 +44,13 @@ Type → Translate → Flash → Done. Simple as that.
 ## 💭 Thoughts  
 
 Honestly, this project started from a place of frustration.  
-I kinda messed up by volunteering for a professor’s project. At first, I was hyped — had that early enthusiasm — but then it went downhill. My team wasn’t motivated, they just threw stuff at AI to do their part, and then told me to build the CAD design for the structure. Basically, I was doing the grunt work while they’d end up with the recognition. At some point, I just said *f off*.  
+I kinda messed up by volunteering for a professor’s project. At first, I was hyped had that early enthusiasm but then it went downhill. My team wasn’t motivated, they just threw stuff at AI to do their part, and then told me to build the CAD design for the structure. Basically, I was doing the grunt work while they’d end up with the recognition. At some point, I just said "F off".  
 
 But since I couldn’t just walk away completely, I decided to mess around on my own. That’s when I started experimenting with the Arduino LED, playing with Morse code, and well… that’s how **Moordrino** was born.  
 
-Now it’s more like my own side quest — messing with LEDs, Morse code, and whatever else comes to mind. I’m also thinking about trying out stuff with Raspberry Pi, maybe hosting n8n flows on a better board, and slowly saving up to push this further.  
+Now it’s more like my own side quest messing with LEDs, Morse code, and whatever else comes to mind. I’m also thinking about trying out stuff with Raspberry Pi, maybe hosting n8n flows on a better board, and slowly saving up to push this further.  
 
-So yeah — what started as me being pissed off kinda turned into something fun and experimental. Not perfect, not polished, but mine. 🚀 
+So yeah what started as me being pissed off kinda turned into something fun and experimental. Not perfect, not polished, but mine. 🚀 
 
 
 
