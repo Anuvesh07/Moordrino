@@ -60,5 +60,5 @@ So yeah what started as me being pissed off kinda turned into something fun and 
 
 ## Updates 
 
-if possible gona add golang insted for faster results
+ardirust1.20.1
 
